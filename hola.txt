@@ -2,5 +2,5 @@ hola
 prueba
 prueba 
 XD
-ahora lo edite nuevamente en python  :3
+ahora lo edite nuevamente en pycharm :3
 
