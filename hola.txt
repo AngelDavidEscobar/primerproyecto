@@ -2,5 +2,9 @@ hola
 prueba
 prueba 
 XD
+<<<<<<< HEAD
 ahora lo edite nuevamente en pycharm :3
 
+=======
+mañana nos enfocaremos en estar con mi mama
+>>>>>>> cabecera
